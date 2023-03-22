@@ -1,2 +1,3 @@
-# Landing-page---VERTI-
-Simple landing page with RWD 
+# Landing-page-VERTI-
+
+Simple landing page with RWD
