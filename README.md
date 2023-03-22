@@ -4,7 +4,7 @@ This is a simple landing page created using media queries and responsive web des
 
 ## VERTI
 
-Link to the app: [Verti](verti-simple-landing-page.netlify.app)
+Link to the app: [Verti](https://verti-simple-landing-page.netlify.app/)
 
 ## Current Project Team Members and Authors
 
